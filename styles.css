@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#insert {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+table,
+th,
+td {
+  border: 2px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+  padding: 0.2em;
+}
+th,
+td {
+  background-color: #96d4d4;
+}
